@@ -35,7 +35,7 @@ def generatePersonality(name,gender,age,personalities):
         replacement["him"] = name
         replacement["He"] = name 
     elif gender == "female":
-        replacement["her"] = name
+        replacement["Her"] = name
         replacement["She"] = name
     for k,v in replacement.items():
         personalityStr = personalityStr.replace(k,v)
