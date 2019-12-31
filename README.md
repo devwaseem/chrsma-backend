@@ -70,4 +70,4 @@ type: JSON
 We are happy if you add something useful in this project. so feel free add your ideas and make sure you document it.
 
 ## License
-Licensed under the MIT (see LICENSE)
+Licensed under the MIT (see [LICENSE](https://github.com/devwaseem/chrsma-backend/blob/master/LICENSE))
