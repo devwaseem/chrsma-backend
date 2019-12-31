@@ -1,5 +1,5 @@
 # CHRSMA - Backend 
-##### Chrsma REST api built with python for CHRSMA Android App
+### Chrsma REST api built with python and Flask for CHRSMA Android App
 
 Created by [@dvlp.er](https://www.instagram.com/dvlp.er/) and [@insane.dvlper](https://www.instagram.com/insane.dvlpr/)
 
