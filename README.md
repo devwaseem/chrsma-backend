@@ -12,14 +12,14 @@ Created by [@dvlp.er](https://www.instagram.com/dvlp.er/) and [@insane.dvlper](h
 6. [License](#license)
 
 
-### Requirements:
+## Requirements:
 - python
 - Terminal
 - Flask
 - Some Code editor
 - Brain
 
-### Installation:
+## Installation:
 open terminal and type this command:
 ```
 $ pip install requirements.txt
@@ -35,14 +35,14 @@ app.run(debug=True)
 ```
 This will enable you the flask development mode.
 
-### Development
+## Development
 To run the app, type this command in Terminal:
 ```
 $ python app.py
 ```
 Now open the browser and enter `http://127.0.0.1:5000/api/getchrsma?name=waseem&gender=male&age=20`
 
-### Documentation:
+## Documentation:
 **route**: 
 `/api/getchrsma`
 
@@ -64,7 +64,7 @@ type: JSON
 - data [The response]
 - message [if any error occured, message will contain description of the error]
 
-### Contributing
+## Contributing
 We are happy if you add something useful in this project. so feel free add your ideas and make sure you document it.
 
 ## License
