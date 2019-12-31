@@ -3,6 +3,15 @@
 
 Created by [@dvlp.er](https://www.instagram.com/dvlp.er/) and [@insane.dvlper](https://www.instagram.com/insane.dvlpr/)
 
+## Table of contents:
+1. [Requirements](#requirements)
+2. [Installation](#installation)
+3. [Development](#development)
+4. [Documentation](#documentation)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+
 ### Requirements:
 - python
 - Terminal
@@ -54,3 +63,9 @@ type: JSON
 - Success [True | False]
 - data [The response]
 - message [if any error occured, message will contain description of the error]
+
+### Contributing
+We are happy if you add something useful in this project. so feel free add your ideas and make sure you document it.
+
+## License
+Licensed under the MIT (see LICENSE)
