@@ -30,7 +30,7 @@ def generatePersonality(name,gender,age,personalities):
         personalityStr += personalities[i][e]
         if not i == len(hashkeys)-1:
             personalityStr = personalityStr.replace(".",", ")
-    replacement = {"him":name,"He":name}
+    replacement = {"him":name,"He":name,"her":name,"She":name}
     for k,v in replacement.items():
         personalityStr = personalityStr.replace(k,v)
     return personalityStr
